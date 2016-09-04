@@ -3,24 +3,24 @@ A list of react packages that I use or am looking to use
 
 
 
-# Onboarding/Tours
+## Onboarding/Tours
 * https://github.com/socialtables/react-user-tour
 * 
 
-# Forms
+## Forms
 * formsy-react
 * formsy-react-components
 * 
 
-# Bootstrap related
+## Bootstrap related
 * react-bootstrap-typeahead
 * react-router-bootstrap
 
-# Icons
+## Icons
 * react-fontawesome
 
-# Alerts
+## Alerts
 * sweetalert-react
 
-# CSS
+## CSS
 * aphrodite
